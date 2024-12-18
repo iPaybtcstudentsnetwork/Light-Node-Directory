@@ -27,4 +27,4 @@
 - **Phone:** [Insert Phone Number Here]
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here]
+Support our activities by donating through [insert your donation link here].
